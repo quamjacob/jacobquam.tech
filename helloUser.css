@@ -1,0 +1,33 @@
+body
+{
+    font-family:Verdana, Arial, Sans-Serif;
+    background-color: rgb(128, 128, 128);
+    
+}
+
+
+ul,h1, h2, h3 {
+  text-align: center;
+  list-style:circle;
+  list-style-position:inside:
+
+
+}
+
+fieldset {
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+input {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+label {
+  display: block;
+  text-align: center;
+  width: 100%;
+}
